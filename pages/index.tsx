@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Markprompt Starter Template</title>
+        <title>Contenda // Teleport PoC</title>
         <meta
           name="description"
-          content="A starter template featuring the Markprompt React component"
+          content="A basic web app for Teleport to try a Q&A bot"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
