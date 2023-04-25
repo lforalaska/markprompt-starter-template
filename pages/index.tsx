@@ -35,9 +35,6 @@ export default function Home() {
                 </p>
               )}
             </div>
-            <div className="flex flex-none flex-row items-center justify-center gap-8">
-              <MarkpromptIcon className="h-12 w-12" />
-            </div>
           </div>
         </div>
       </main>
