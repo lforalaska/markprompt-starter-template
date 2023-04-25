@@ -35,7 +35,7 @@ type OpenAICompletionsModel =
   | 'babbage'
   | 'ada';
 
-const DEFAULT_MODEL: OpenAIModel = 'gpt-3.5-turbo';
+const DEFAULT_MODEL: OpenAIModel = 'gpt-4-0314';
 
 const Caret = () => {
   return (
